@@ -1,2 +1,2 @@
 # hello-world
-Primer repositorio en Github
+Hay que ponerse las pilas con Salesforce Angel. Estudia, practica y se feliz
